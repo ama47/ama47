@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### I'm a Full stack developer who currently in Saudi Arabia
 <!--
 **ama47/ama47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
