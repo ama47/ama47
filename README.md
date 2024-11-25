@@ -6,7 +6,7 @@ I'm a fresh computer science graduate with a passion for creating software solut
 - ✉️  You can contact me at [ama.alsuhibani@gmail.com](mailto:ama.alsuhibani@gmail.com)
 - 🚀  I'm currently working on [Game Accessories Store](http://github.com/ama47/game-accessories-store)
 - 🧠  I'm learning ASP.NET and React.js
-- 🤝  I'm open to collaborating on Immotaive Projects
+- 🤝  I'm open to collaborating on Innovative Projects
 
 ### Skills
 
