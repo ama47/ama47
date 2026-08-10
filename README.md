@@ -2,7 +2,7 @@
 ## Full-Stack Developer
 I'm a fresh computer science graduate with a passion for creating software solutions that help others focus on what matters. 
 
-- 🌍  I'm based in Qassim, Saudi Arabia
+- 🌍  I'm based in Riyadh, Saudi Arabia
 - ✉️  You can contact me at [ama.alsuhibani@gmail.com](mailto:ama.alsuhibani@gmail.com)
 - 🚀  I'm currently working on [Game Accessories Store](http://github.com/ama47/game-accessories-store)
 - 🧠  I'm learning ASP.NET and React.js
