@@ -6,8 +6,6 @@ I'm a Full-Stack Developer with hands-on experience designing and optimizing sca
 - 💼 I'm currently a Full-Stack Developer at Grenoble Partners, building scalable web apps and REST APIs
 - ☁️ AWS Certified Cloud Practitioner
 - 🧠 I'm exploring Agentic AI Development with tools like Claude Code and Cursor AI
-- ✉️ You can contact me at [ama.alsuhibani@gmail.com](mailto:ama.alsuhibani@gmail.com)
-- 🔗 Portfolio: [abdulazizalsuhaibani.com](https://abdulazizalsuhaibani.com)
 - 🤝 I'm open to collaborating on Innovative Projects
 
 ### Skills
